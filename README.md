@@ -11,7 +11,7 @@ Sou formado em Biomedicina pela Universidade Federal de São Paulo e Pós Gradua
 
 Tenho experiência com credenciamento de dados de exames, padronização de portfólios de produtos na área da saúde, condução de projetos multidisciplinares envolvendo saneamento de dados em sistemas de cadastro e de produção de exames.
 
-Descobri a Ciência de Dados em 2020 quando obtive o Certificação Profissional em Ciência de Dados pela IBM na platafarmo Coursera.
+Descobri a Ciência de Dados em 2020 quando obtive o Certificação Profissional em Ciência de Dados pela IBM na platafarma Coursera.
 
 
 **Background in:** Excel, Python
