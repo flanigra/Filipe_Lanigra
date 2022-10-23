@@ -20,4 +20,7 @@ Descobri a Ciência de Dados em 2020 quando obtive o Certificação Profissional
 
 
 ## Projetos:
-Veja os meu projetos em Ciência de Dados:
+
+Veja os meus projetos em Ciência de Dados:
+
+* [Análise de Dados do Airbnb da cidade de Barcelona](https://github.com/flanigra/Filipe_Lanigra/blob/master/Projeto_Analisando_os_Dados_do_Airbnb_Barcelona.ipynb)
