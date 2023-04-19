@@ -25,4 +25,4 @@ Veja os meus projetos em Ciência de Dados:
 
 * [Análise de Dados do Airbnb da cidade de Barcelona](https://github.com/flanigra/Filipe_Lanigra/blob/master/Projeto_Analisando_os_Dados_do_Airbnb_Barcelona.ipynb)
 
-* [Panorama da COVID-19 no Brasil e no Mundo] (https://github.com/flanigra/Filipe_Lanigra/blob/master/Projeto_Panorama_da_COVID_19_no_Brasil.ipynb)
+* [Panorama da COVID-19 no Brasil e no Mundo](https://github.com/flanigra/Filipe_Lanigra/blob/master/Projeto_Panorama_da_COVID_19_no_Brasil.ipynb)
